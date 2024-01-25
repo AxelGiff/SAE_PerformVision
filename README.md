@@ -17,9 +17,9 @@ Ce qu'il est requis pour commencer avec notre projet...
 ## Fabriqué avec
 
 
-* [Tailwindcss]((https://tailwindcss.com/)) - Framework CSS (front-end)
-* [Javascript]((https://developer.mozilla.org/fr/docs/Web/JavaScript)) - Javascript
-* [PHP](https://www.php.net/manual/fr/intro-whatis.php)) - PHP
+* [Tailwindcss](https://tailwindcss.com/) - Framework CSS (front-end)
+* [Javascript](https://developer.mozilla.org/fr/docs/Web/JavaScript) - Javascript
+* [PHP](https://www.php.net/manual/fr/intro-whatis.php) - PHP
 
 
 
