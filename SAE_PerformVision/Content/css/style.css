@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@700&display=swap');
+
+@layer base{
+    body{
+        
+        background-color: linear-gradient(156deg, #2a7fac 100%, #195676 84.51%);
+
+
+            }
+}
+
