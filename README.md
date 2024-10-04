@@ -2,6 +2,8 @@
 
 [![forthebadge](http://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)  [![forthebadge](http://forthebadge.com/images/badges/powered-by-electricity.svg)](http://forthebadge.com)
 
+require __DIR__ . '/../../fichier.php'; 
+require $_SERVER['DOCUMENT_ROOT'] . '/chemin/vers/fichier.php';
 Perform Vision est une société dirigé par le client qui a demandé à ce qu'on lui réalise un site de prestations de régie. Faisant ses CRA sur un fichier.csv, le client,voulant un site extranet, a pu obtenir un site permettant de renseigner un CRA par mois pour différents clients en tant que prestataire.
 ## Pour commencer
 
